@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:xylophone/xylophoneModel.dart';
+import 'package:xylophone/xylophone_view_model.dart';
 
 class XylophoneApp extends StatefulWidget {
   const XylophoneApp({Key? key}) : super(key: key);
